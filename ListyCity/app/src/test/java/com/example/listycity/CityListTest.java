@@ -1,8 +1,7 @@
 package com.example.listycity;
 
 import static org.junit.jupiter.api.Assertions.*;
-import org.junit.Test;
-//import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.Test;
 
 public class CityListTest {
     private CityList mockCityList() {
